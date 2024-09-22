@@ -1,4 +1,9 @@
-![image](https://github.com/user-attachments/assets/428175e7-f5de-41ad-b222-4a89715160c9)# Legal_Consultation_System
+![image](https://github.com/user-attachments/assets/428175e7-f5de-41ad-b222-4a89715160c9)
+### 法律/律师咨询小程序
+CSDN: https://blog.csdn.net/youth_shouting/article/details/142439700?spm=1001.2014.3001.5502
+
+需要联系QQ:1150884107
+
 使用Java、Springboot、mybatis、Vue、Mysql、开发的微信小程序法律咨询系统，系统分为管理员、律师、用户，代码结构清晰编写规范可以快速二次开发和添加新功能
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/72f2ef8567fb499c9481a566a1b54d9e.png)
 **技术：Java、Springboot、mybatis、Vue、Mysql、微信小程序**
@@ -19,4 +24,3 @@
 * 律师可以管理自己的所有咨询订单并且管理自己的个人信息,管理员可以管理律师并且可以发布法律信息
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8a2ba48b6d2a4d57a35190ee7db80d10.png)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/484fa021025d4d1b9a79b3e1d2678bcd.png)
-需要联系QQ:1150884107
